@@ -16,7 +16,7 @@ function setup() {
 }
   
 function draw() {
-  background(255);
+  background(0);
   noStroke();
 
   for (var i = 0; i < 50; i = i + 1) {
